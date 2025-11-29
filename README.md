@@ -32,7 +32,18 @@ Ensure you have Node.js and npm installed.
 
 Before running the frontend, **ensure the Flask Backend is running on port 5000.**
 
-Start the React development server:
+Start the React development server: ```bash  npm start 
 
-```bash
-npm start
+
+
+<img width="1899" height="1079" alt="Screenshot 2025-11-28 041312" src="https://github.com/user-attachments/assets/228114eb-ce53-4efa-8924-7baa3790bf1e" />
+
+
+
+
+<img width="1908" height="1079" alt="Screenshot 02" src="https://github.com/user-attachments/assets/8ceec9af-5a5d-4d49-b6c0-c4cff2578faa" />
+
+
+
+
+
